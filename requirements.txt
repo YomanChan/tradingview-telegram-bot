@@ -1,1 +1,2 @@
-flask==2.3.3 python-telegram-bot==13.7
+flask==2.3.3 
+tradingview-telegram-bot==13.7
