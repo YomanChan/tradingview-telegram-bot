@@ -1,2 +1,4 @@
-flask==2.3.3 
-python-telegram-bot==13.7
+flask==2.3.3  
+python-telegram-bot==20.6 
+pillow==10.0.1 
+# 添加 pillow 作為圖像處理依賴
